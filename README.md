@@ -1,5 +1,7 @@
 # pork-rspec [![Build Status](https://secure.travis-ci.org/godfat/pork-rspec.png?branch=master)](http://travis-ci.org/godfat/pork-rspec) [![Coverage Status](https://coveralls.io/repos/github/godfat/pork-rspec/badge.png)](https://coveralls.io/github/godfat/pork-rspec) [![Join the chat at https://gitter.im/godfat/pork-rspec](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/godfat/pork-rspec)
 
+[![Join the chat at https://gitter.im/godfat/pork-rspec](https://badges.gitter.im/godfat/pork-rspec.svg)](https://gitter.im/godfat/pork-rspec?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 by Lin Jen-Shin ([godfat](http://godfat.org))
 
 ## LINKS:
